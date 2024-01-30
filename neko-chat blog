@@ -1,0 +1,44 @@
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>猫语neko-chat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: lightgray;
+            color: pink;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: lightgray;
+        }
+
+        h1 {
+            font-weight: bold;
+        }
+
+        main {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>猫语neko-chat</h1>
+    </header>
+
+    <main>
+        <!-- 这里添加你的博客内容 -->
+        <p>欢迎来到猫语neko-chat</p>
+        <p>请随意浏览我们的文章，留下您的评论和想法。</p>
+    </main>
+</body>
+</html>
+```
